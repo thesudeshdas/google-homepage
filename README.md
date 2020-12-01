@@ -18,7 +18,7 @@ The recreation of the most used search engine, Google.
 Ctrl + [Click Here!](https://thesudeshdas.github.io/google-homepage/) to see the live preview of the project.
 
 ### Demo
-![Demo 1 pic](https://github.com/thesudeshdas/google-homepage/blob/master/demo/demo1.png)
+![Demo 1 pic](https://github.com/thesudeshdas/google-homepage/blob/master/demo/demo1.jpg)
 
 ### Motivation
 The project is created under the curriculam of The Odin Project - Foundations, to understand basics of HTML & CSS.
